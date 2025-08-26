@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/python_bootstrapping/__init__.py
+src/python_bootstrapping/__main__.py
+src/python_bootstrapping/cli.py
+src/python_bootstrapping/ensure_env.py
+src/python_bootstrapping.egg-info/PKG-INFO
+src/python_bootstrapping.egg-info/SOURCES.txt
+src/python_bootstrapping.egg-info/dependency_links.txt
+src/python_bootstrapping.egg-info/entry_points.txt
+src/python_bootstrapping.egg-info/top_level.txt
